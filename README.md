@@ -1,1 +1,1 @@
-# jquery-image-slider
+# Very simple jquery image slider
